@@ -1,0 +1,19 @@
+div#titre {background-color: #ccc;
+text-align: center;}
+h2 {background-color: #ccc;
+padding: 20px}
+div {
+	background-color: white;
+	width: 700px;
+border-right: 3px solid #ccc;
+border-left: 3px solid #ccc;
+border-bottom: 3px solid #ccc;
+margin: auto;
+}
+table,tr,td {
+	border-collapse: separate;
+	padding: 10px;
+}
+.col {color: #000;}
+#top {vertical-align: text-top;}
+a {color: #000;}
